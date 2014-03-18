@@ -27,7 +27,7 @@ function prettify_code($attributes, $content=''){
 	extract(shortcode_atts($defaults, $attributes));
 
 	if(CACHE_ENABLED){
-		$hash       = hash(PYGMENT_HASH, $content . $language . $linenostart . $hl_lines);
+		$hash       = hash(PYGMENT_HASH, $content . $language . $linenostart . $hl_lines . $linenos);
 		$cache      = get_post_meta($post->ID, $cache_var, $single = TRUE);
 		$cache_hash = get_post_meta($post->ID, $cache_hash_var, $single = TRUE);
 
