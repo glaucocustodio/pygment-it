@@ -16,7 +16,7 @@ This plugin is a improved version of
 * Support for `hl_lines` (highlighted lines), `linenos` (line numbers) and `linenostart` (line number to start) when using a local installation of Pygments
 
 ## Installation
-  1. Upload `pygment-it` folder to the `/wp-content/plugins/` directory
+  1. Clone this repo or upload its content to `/wp-content/plugins/` directory
   2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Usage
