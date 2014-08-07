@@ -49,3 +49,4 @@ Through `code` shortcode.
 ## License
 This projected is licensed under the terms of the MIT license.
     
+<a href='https://pledgie.com/campaigns/26327'><img alt='Click here to lend your support to: Pygment It and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/26327.png?skin_name=chrome' border='0' ></a>
