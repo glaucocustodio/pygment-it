@@ -5,8 +5,10 @@ A WordPress plugin for syntax highlighting using <a href="http://pygments.org/" 
 
 By default, Pygment It will auto discover if Pygments is installed (through `command -v pygmentize`). If not, it will use <a href="http://pygments.appspot.com" target="_blank">http://pygments.appspot.com</a> to highlight code (but without support for: highlighted lines, line numbers and line number to start).
 
-This plugin is a improved version of
-<a href="https://bitbucket.org/jsturgill/pygments-for-wordpress" target="_blank">https://bitbucket.org/jsturgill/pygments-for-wordpress</a>.
+Check out in <a href="http://wordpress.org/plugins/pygment-it/" target="_blank">WordPress Plugin Directory</a>. Did you like it? Rate and star it!
+
+Note: this plugin is an improved version
+<a href="https://bitbucket.org/jsturgill/pygments-for-wordpress" target="_blank">this</a>.
 
 ## Features
 
