@@ -2,8 +2,8 @@
 include('config.php');
 
 function bash_quote($string){
-	// replace ['] with ['\'']
-	return $string = str_replace("'", "'\\''", $string );
+	// replace \ with \\ and ['] with ['\'']
+  return str_replace(array("\\", "'"), array("\\\\","'\\''"), $string);
 };
 
 $code        = $_POST[PYGMENT_SERVICE_CODE_VAR];

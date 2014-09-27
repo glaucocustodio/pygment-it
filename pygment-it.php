@@ -3,7 +3,7 @@
 Plugin Name: Pygment It
 Plugin URI: https://github.com/glaucocustodio/pygment_it
 Description: Syntax highlighting with Pygments. Usage: [code language="ruby"]code here[/code]
-Version: 0.1
+Version: 0.2
 Author: Glauco Custódio
 Author URI: http://glaucocustodio.com
 */

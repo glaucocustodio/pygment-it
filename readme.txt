@@ -4,7 +4,7 @@ Donate link: https://pledgie.com/campaigns/26327
 Tags: syntax, highlighter, pygment, highlighting
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0
+Stable tag: 0.2
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -40,10 +40,13 @@ No, in case your server does not have Pygments installed, the plugin will use an
 
 == Changelog ==
 
-= 1.0 =
+= 0.2 =
+Escaping \
+
+= 0.1 =
 * Plugin creation
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 0.1 =
 Plugin creation
